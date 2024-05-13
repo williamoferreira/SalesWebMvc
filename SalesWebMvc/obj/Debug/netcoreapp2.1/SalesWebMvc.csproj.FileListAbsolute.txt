@@ -34,3 +34,4 @@ C:\Users\willi\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWeb
 C:\Users\willi\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\willi\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\willi\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWeb.4E83D57B.Up2Date
+C:\Users\willi\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.sourcelink.json
